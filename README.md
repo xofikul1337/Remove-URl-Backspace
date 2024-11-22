@@ -20,6 +20,7 @@ Follow these simple steps to use the URL Encoder Tool:
 ## Demo
 
 You can see the live version of the tool in action by visiting the project link in the GitHub repository.
+[URL Encoder Tool Demo](https://xofikul1337.github.io/Remove-URl-Backspace/)
 
 ## Credits
 

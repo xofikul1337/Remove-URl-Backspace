@@ -1,26 +1,30 @@
+# URL Encoder Tool
 
-    <h1>URL Encoder Tool</h1>
+Welcome to the **URL Encoder Tool**! This tool allows you to easily encode any URL by simply pasting it into the provided input box and clicking on the "Encode URL" button.
 
-    <p>Welcome to the <strong>URL Encoder Tool</strong>! This tool allows you to easily encode any URL by simply pasting it into the provided input box and clicking on the "Encode URL" button.</p>
+## Features
 
-    <h2>Features</h2>
-    <ul>
-        <li>Enter any URL into the input box.</li>
-        <li>The tool will automatically encode the URL when you click the "Encode URL" button.</li>
-        <li>It removes any backslashes from the URL before encoding for cleaner output.</li>
-        <li>The encoded URL is displayed in a readonly text box, ready for you to copy and use.</li>
-    </ul>
+- Enter any URL into the input box.
+- The tool will automatically encode the URL when you click the "Encode URL" button.
+- It removes any backslashes from the URL before encoding for cleaner output.
+- The encoded URL is displayed in a readonly text box, ready for you to copy and use.
 
-    <h2>How to Use</h2>
-    <p>Follow these simple steps to use the URL Encoder Tool:</p>
-    <ol>
-        <li>Paste your URL into the "Enter your URL" textarea.</li>
-        <li>Click the <strong>Encode URL</strong> button.</li>
-        <li>The encoded version of your URL will appear in the "Encoded URL" textarea.</li>
-    </ol>
+## How to Use
 
-    <h2>Demo</h2>
-    <p>You can see the live version of the tool in action by visiting the project link in the GitHub repository.</p>
+Follow these simple steps to use the URL Encoder Tool:
 
-    <h2>Credits</h2>
-    <p>This project is <strong>coded by Shofikul Islam</strong>, the founder of Team X 1337. Special thanks to Shofikul Islam for creating and maintaining this tool.</p>
+1. Paste your URL into the "Enter your URL" textarea.
+2. Click the **Encode URL** button.
+3. The encoded version of your URL will appear in the "Encoded URL" textarea.
+
+## Demo
+
+You can see the live version of the tool in action by visiting the project link in the GitHub repository.
+
+## Credits
+
+This project is **coded by Shofikul Islam**, the founder of Team X 1337. Special thanks to Shofikul Islam for creating and maintaining this tool.
+
+---
+
+Developed by Team X 1337

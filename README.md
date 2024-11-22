@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>URL Encoder Tool - README</title>
-</head>
-<body>
+
     <h1>URL Encoder Tool</h1>
 
     <p>Welcome to the <strong>URL Encoder Tool</strong>! This tool allows you to easily encode any URL by simply pasting it into the provided input box and clicking on the "Encode URL" button.</p>
@@ -31,9 +24,3 @@
 
     <h2>Credits</h2>
     <p>This project is <strong>coded by Shofikul Islam</strong>, the founder of Team X 1337. Special thanks to Shofikul Islam for creating and maintaining this tool.</p>
-
-    <footer>
-        <p>Developed by Team X 1337</p>
-    </footer>
-</body>
-</html>

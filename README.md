@@ -23,8 +23,8 @@ You can see the live version of the tool in action by visiting the project link 
 
 ## Credits
 
-This project is **coded by Shofikul Islam**, the founder of Team X 1337. Special thanks to Shofikul Islam for creating and maintaining this tool.
+This project is **coded by Shofikul Islam**, the founder of Team X 1337. .
 
 ---
 
-Developed by Team X 1337
+
